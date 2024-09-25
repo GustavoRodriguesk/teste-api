@@ -1,0 +1,8 @@
+1) Correto => pois falta utilidade prática, exemplo permite cadastrar com saldo negativo, por tanto não é útil o suficiente para uso sem correções
+
+2) Teste unitários. Nível de teste: unitário, Técnica de teste: caixa preta, Tipo de teste: sem classificação.
+
+3) Poderia fazer a criação conta com saldo negativo falhar e corrigir o código do backend. Outros casos seria adequar os códigos de resposta seguindo o padrão HTTP... erro 500 => 400
+
+
+
